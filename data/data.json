@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "nome": "Geladeira",
+        "descricao": "Esta é a Geladeira, uma descrição detalhada dela.",
+        "vendedor": {
+            "nome": "João Silva",
+            "telefone": "+55 11 1234-5678",
+            "email": "joao.silva@example.com",
+            "avaliacao": 4.5
+        },
+        "especificacoes": {
+            "cor": "Branca",
+            "peso": "70 kg",
+            "dimensoes": "180 x 70 x 80 cm"
+        },
+        "imagem": "https://i.imgur.com/Q4Hxz4l.jpg",
+        "comentarios": [
+            {
+                "usuario": "Maria",
+                "data_publicacao": "2023-09-26",
+                "comentario": "Ótimo produto, estou muito satisfeita!",
+                "nota": 5
+            },
+            {
+                "usuario": "Carlos",
+                "data_publicacao": "2023-09-25",
+                "comentario": "Bom produto, entrega rápida.",
+                "nota": 4
+            }
+        ],
+        "duvidas": [
+            {
+                "usuario": "Ana",
+                "data_publicacao": "2023-09-24",
+                "duvida": "Essa geladeira está disponível em outras cores?",
+                "resposta": "Não, apenas na cor branca."
+            },
+            {
+                "usuario": "Pedro",
+                "data_publicacao": "2023-09-23",
+                "duvida": "Qual é o prazo de entrega?",
+                "resposta": "O prazo de entrega é de 3 a 5 dias úteis."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Máquina de Lavar",
+        "descricao": "A Máquina de Lavar é outra opção disponível, com suas próprias características.",
+        "vendedor": {
+            "nome": "Ana Oliveira",
+            "telefone": "+55 11 9876-5432",
+            "email": "ana.oliveira@example.com",
+            "avaliacao": 4.2
+        },
+        "especificacoes": {
+            "cor": "Branca",
+            "peso": "50 kg",
+            "dimensoes": "90 x 60 x 60 cm"
+        },
+        "imagem": "https://i.imgur.com/KTTlmgl.jpg",
+        "comentarios": [
+            {
+                "usuario": "Lucas",
+                "data_publicacao": "2023-09-25",
+                "comentario": "Produto de qualidade, recomendo!",
+                "nota": 5
+            },
+            {
+                "usuario": "Mariana",
+                "data_publicacao": "2023-09-24",
+                "comentario": "Boa opção, preço justo.",
+                "nota": 4
+            }
+        ],
+        "duvidas": [
+            {
+                "usuario": "Paula",
+                "data_publicacao": "2023-09-23",
+                "duvida": "Essa máquina de lavar vem com garantia?",
+                "resposta": "Sim, oferecemos garantia de 1 ano para este produto."
+            },
+            {
+                "usuario": "Rafael",
+                "data_publicacao": "2023-09-22",
+                "duvida": "Qual é o material dessa máquina de lavar?",
+                "resposta": "A máquina de lavar é feita de aço inoxidável de alta qualidade."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nome": "Computador",
+        "descricao": "O Computador é uma escolha adicional para atender às suas necessidades.",
+        "vendedor": {
+            "nome": "Carla Santos",
+            "telefone": "+55 11 8765-4321",
+            "email": "carla.santos@example.com",
+            "avaliacao": 4.7
+        },
+        "especificacoes": {
+            "cor": "Prata",
+            "peso": "2.5 kg",
+            "dimensoes": "40 x 30 x 10 cm"
+        },
+        "imagem": "https://i.imgur.com/unvoVA1.jpg",
+        "comentarios": [
+            {
+                "usuario": "André",
+                "data_publicacao": "2023-09-24",
+                "comentario": "Excelente produto, estou muito satisfeito!",
+                "nota": 5
+            },
+            {
+                "usuario": "Isabela",
+                "data_publicacao": "2023-09-23",
+                "comentario": "Produto atendeu às minhas expectativas.",
+                "nota": 4
+            }
+        ],
+        "duvidas": [
+            {
+                "usuario": "Fernanda",
+                "data_publicacao": "2023-09-22",
+                "duvida": "Esse computador é resistente à água?",
+                "resposta": "Não, este computador não é resistente à água."
+            },
+            {
+                "usuario": "José",
+                "data_publicacao": "2023-09-21",
+                "duvida": "Qual é o peso deste computador?",
+                "resposta": "O peso é de aproximadamente 2.5 kg."
+            }
+        ]
+    }
+]
